@@ -48,7 +48,8 @@ ver.1E.1 — Вариант с ФАПЧ на GAL16V8B от Scorpion.
 
 ## Техническое примечание:  
   
-Все платы разработаны специально для моей модифицированной версии [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k) и [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM),  
+Все платы разработаны специально для моих модифицированных версий  
+[Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k) и [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM),  
 где системная шина и сигналы управления уже подготовлены для бесшовного подключения BDI.  
 Также возможно подключение и к любой другой версии Leningrad-2.  
 Необходимые доработки указаны на схеме.
