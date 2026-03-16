@@ -50,8 +50,7 @@ ver.1E.1 — Вариант с ФАПЧ на GAL16V8B от Scorpion.
   
 Контроллеры разработаны для бесшовного (Plug-and-Play) подключения к моим версиям плат:
   
-* [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k)
-*   
+* [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k)  
 * [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM)  
   
 На этих платах системная шина и сигналы управления уже подготовлены.  
