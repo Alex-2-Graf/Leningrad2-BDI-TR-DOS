@@ -76,7 +76,7 @@ ver.1E.1 — Вариант с ФАПЧ на GAL16V8B (Scorpion).
 Все 5 версий плат имеют идентичные габаритные размеры и расположение крепежных отверстий.  
 Это позволяет легко заменять одну ревизию контроллера на другую в рамках одного корпуса.  
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/BDI-TR-DOS.jpg
+![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/BDI-TR-DOS.jpg)
 
 ## Техническое примечание:  
   
