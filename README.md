@@ -24,43 +24,43 @@ Beta Disk Interface (BDI), созданный британской компан�
 
 ver.1A.1 — Классическая схема на дискретной логике.  
   
-[iBOM](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/A/BDI%20Leningrad-2%201A-1.html) [Схема](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/A/BDI%20Leningrad-2%201A-1.pdf) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Gerber/A/BDI_L2_1A_1_Gerber.zip)
+[iBOM](Export/A/BDI%20Leningrad-2%201A-1.html) [Схема](Export/A/BDI%20Leningrad-2%201A-1.pdf) [Gerber](Gerber/A/BDI_L2_1A_1_Gerber.zip)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/A/BDI_1A_1.png)
+![](Images/A/BDI_1A_1.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/A/PCB_1A_1.png)
+![](Images/A/PCB_1A_1.png)
   
 ver.1B.1 — Вариант с Data Separator на FDC9216B.  
     
-[iBOM](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/B/BDI%20Leningrad-2%201B-1%20(FDC9216B).html) [Схема](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/B/BDI%20Leningrad-2%201B-1%20(FDC9216B).pdf) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Gerber/B/BDI_L2_1B_1_Gerber.zip)
+[iBOM](Export/B/BDI%20Leningrad-2%201B-1%20(FDC9216B).html) [Схема](Export/B/BDI%20Leningrad-2%201B-1%20(FDC9216B).pdf) [Gerber](Gerber/B/BDI_L2_1B_1_Gerber.zip)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/B/BDI_1B_1.png)
+![](Images/B/BDI_1B_1.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/B/PCB_1B_1.png)
+![](Images/B/PCB_1B_1.png)
   
 ver.1C.1 — Вариант с ФАПЧ на РТ4А (С48).  
     
-[iBOM](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/C/BDI%20Leningrad-2%201C-1%20(%D0%A0%D0%A24%D0%90)(C48).html) [Схема](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/C/BDI%20Leningrad-2%201C-1%20(%D0%A0%D0%A24%D0%90)(C48).pdf) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Gerber/C/BDI_L2_1C_1_Gerber.zip) [РТ4А](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/C/556RT4.bin)
+[iBOM](Export/C/BDI%20Leningrad-2%201C-1%20(%D0%A0%D0%A24%D0%90)(C48).html) [Схема](Export/C/BDI%20Leningrad-2%201C-1%20(%D0%A0%D0%A24%D0%90)(C48).pdf) [Gerber](Gerber/C/BDI_L2_1C_1_Gerber.zip) [РТ4А](Export/C/556RT4.bin)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/C/BDI_1C_1.png)
+![](Images/C/BDI_1C_1.png)
 
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/C/PCB_1C_1.png)
+![](Images/C/PCB_1C_1.png)
   
 ver.1D.1 — Вариант с ФАПЧ на РТ4А (HIMAK).  
    
-[iBOM](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/D/BDI%20Leningrad-2%201D-1%20(%D0%A0%D0%A24%D0%90)(HIMAK).html) [Схема](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/D/BDI%20Leningrad-2%201D-1%20(%D0%A0%D0%A24%D0%90)(HIMAK).pdf) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Gerber/D/BDI_L2_1D_1_Gerber.zip) [РТ4А](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/D/556PT4A.bin)
+[iBOM](Export/D/BDI%20Leningrad-2%201D-1%20(%D0%A0%D0%A24%D0%90)(HIMAK).html) [Схема](Export/D/BDI%20Leningrad-2%201D-1%20(%D0%A0%D0%A24%D0%90)(HIMAK).pdf) [Gerber](Gerber/D/BDI_L2_1D_1_Gerber.zip) [РТ4А](Export/D/556PT4A.bin)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/D/BDI_1D_1.png)
+![](Images/D/BDI_1D_1.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/D/PCB_1D_1.png)
+![](Images/D/PCB_1D_1.png)
   
 ver.1E.1 — Вариант с ФАПЧ на GAL16V8B (Scorpion).  
   
-[iBOM](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/E/BDI%20Leningrad-2%201E-1(GAL16V8B).html) [Схема](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/E/BDI%20Leningrad-2%201E-1(GAL16V8B).pdf) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Gerber/E/BDI_L2_1E_1_Gerber.zip) [GAL16V8B](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Export/E/fapch.jed)
+[iBOM](Export/E/BDI%20Leningrad-2%201E-1(GAL16V8B).html) [Схема](Export/E/BDI%20Leningrad-2%201E-1(GAL16V8B).pdf) [Gerber](Gerber/E/BDI_L2_1E_1_Gerber.zip) [GAL16V8B](Export/E/fapch.jed)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/E/BDI_1E_1.png)
+![](Images/E/BDI_1E_1.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/E/PCB_1E_1.png)
+![](Images/E/PCB_1E_1.png)
   
     ⚠️ Важное замечание по выбору версии:
     Различия в реализации ФАПЧ (PLL) критичны только при использовании  
@@ -76,7 +76,7 @@ ver.1E.1 — Вариант с ФАПЧ на GAL16V8B (Scorpion).
 Все 5 версий плат имеют идентичные габаритные размеры и расположение крепежных отверстий.  
 Это позволяет легко заменять одну ревизию контроллера на другую в рамках одного корпуса.  
   
-![](https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS/blob/main/Images/BDI-TR-DOS.jpg)
+![](Images/BDI-TR-DOS.jpg)
 
 ## Техническое примечание:  
   
