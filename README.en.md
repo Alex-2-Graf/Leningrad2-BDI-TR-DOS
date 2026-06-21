@@ -1,7 +1,5 @@
-# Leningrad2-BDI-TR-DOS  
-  
-> [English](README.en.md) | [Русский](README.md)  
-  
+# Leningrad2-BDI-TR-DOS
+
 ## Beta Disk Interface (TR-DOS) controller for Leningrad-2 (Custom Edition). 5 versions of Read Channel (PLL)
 
 Leningrad-2 (разработка Сергея Зонова, 1989 г.) стал одним из самых массовых  
