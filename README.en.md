@@ -48,8 +48,7 @@ On the motherboards mentioned above, the system bus and control signals are alre
 
 To connect these controllers to any other third-party or stock version of the Leningrad-2 computer, a minor modification will be required (detailed in the schematics). This primarily involves verifying the presence of core bus signals and manually routing the `+BETA` and `-BETA` control signals.
 
-*Note: It is also possible to use a modern hardware WD1793/ВГ93 chip emulator instead of the original IC.*
-[VG93-MB8877](https://github.com/Alex-2-Graf/VG93-MB8877-lgt8f328p-emulator)
+*Note: It is also possible to use a modern hardware [WD1793/ВГ93/MB8877](https://github.com/Alex-2-Graf/VG93-MB8877-lgt8f328p-emulator) chip emulator instead of the original IC.*
 
 With fully functional components and proper soldering, the board requires no complex tuning or oscilloscope calibration.
 
